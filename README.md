@@ -1,0 +1,2 @@
+# smssync
+smssync wp
